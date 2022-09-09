@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\chuyennganh\\Kyf 9\\Hoc C#\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {}
+    "d:\\chuyennganh\\Kyf 9\\Hoc C#\\BulkyBook\\ASP.NetCore-MVC-demo\\BulkyBookWeb\\BulkyBookWeb.csproj": {}
   },
   "projects": {
-    "D:\\chuyennganh\\Kyf 9\\Hoc C#\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {
+    "d:\\chuyennganh\\Kyf 9\\Hoc C#\\BulkyBook\\ASP.NetCore-MVC-demo\\BulkyBookWeb\\BulkyBookWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\chuyennganh\\Kyf 9\\Hoc C#\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+        "projectUniqueName": "d:\\chuyennganh\\Kyf 9\\Hoc C#\\BulkyBook\\ASP.NetCore-MVC-demo\\BulkyBookWeb\\BulkyBookWeb.csproj",
         "projectName": "BulkyBookWeb",
-        "projectPath": "D:\\chuyennganh\\Kyf 9\\Hoc C#\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+        "projectPath": "d:\\chuyennganh\\Kyf 9\\Hoc C#\\BulkyBook\\ASP.NetCore-MVC-demo\\BulkyBookWeb\\BulkyBookWeb.csproj",
         "packagesPath": "C:\\Users\\khang\\.nuget\\packages\\",
-        "outputPath": "D:\\chuyennganh\\Kyf 9\\Hoc C#\\BulkyBook\\BulkyBookWeb\\obj\\",
+        "outputPath": "d:\\chuyennganh\\Kyf 9\\Hoc C#\\BulkyBook\\ASP.NetCore-MVC-demo\\BulkyBookWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\khang\\AppData\\Roaming\\NuGet\\NuGet.Config",

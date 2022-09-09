@@ -9662,11 +9662,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\chuyennganh\\Kyf 9\\Hoc C#\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+      "projectUniqueName": "D:\\chuyennganh\\Kyf 9\\Hoc C#\\BulkyBook\\ASP.NetCore-MVC-demo\\BulkyBookWeb\\BulkyBookWeb.csproj",
       "projectName": "BulkyBookWeb",
-      "projectPath": "D:\\chuyennganh\\Kyf 9\\Hoc C#\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+      "projectPath": "D:\\chuyennganh\\Kyf 9\\Hoc C#\\BulkyBook\\ASP.NetCore-MVC-demo\\BulkyBookWeb\\BulkyBookWeb.csproj",
       "packagesPath": "C:\\Users\\khang\\.nuget\\packages\\",
-      "outputPath": "D:\\chuyennganh\\Kyf 9\\Hoc C#\\BulkyBook\\BulkyBookWeb\\obj\\",
+      "outputPath": "D:\\chuyennganh\\Kyf 9\\Hoc C#\\BulkyBook\\ASP.NetCore-MVC-demo\\BulkyBookWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\khang\\AppData\\Roaming\\NuGet\\NuGet.Config",
